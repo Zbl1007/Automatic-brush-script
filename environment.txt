@@ -1,0 +1,5 @@
+Python 3.6.5
+pip 9.0.3
+需要pip安装requests这个第三方包
+
+安装代码: pip install requests
